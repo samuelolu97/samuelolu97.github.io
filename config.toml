@@ -8,7 +8,7 @@ themesdir = "themes"
 #metaDataFormat = "yaml"
 canonifyURLs = true
 
-publishDir = "docs"
+
 defaultContentLanguageInSubdir= true
 
 
